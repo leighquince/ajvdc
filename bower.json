@@ -1,0 +1,14 @@
+{
+  "name": "AJVDC",
+  "description": "AJVDC",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.3.0",
+    "animate.css": "~3.2.6",
+    "pretty-photo": "~1.0.1",
+    "html5shiv": "~3.7.2",
+    "isotope": "~2.2.0"
+  }
+}
